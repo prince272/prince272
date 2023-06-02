@@ -13,15 +13,18 @@ I'm a highly skilled Full Stack Developer with over 8+ years of experience in Sy
 
 ## ⚡ Key Competencies
 
-- Excellent understanding and expertise in object-oriented programming (OOPS).
-- Strong critical thinker and creative designer.
-- Proficient in evaluating systems to identify performance indicators and improve performance.
-- Extensive knowledge of the software development life cycle.
-- Excellent communication and interpersonal skills.
-- Rapid adaptability to new challenges.
-- Skilled in applying software design patterns.
-- Ability to multi-task and meet tight deadlines.
-- Proficient in Microsoft Office applications.
+-	I have an excellent understanding and expertise in object-oriented programming (OOPS).
+-	I am a strong critical thinker and creative designer who can think outside the box to find unexpected yet highly effective solutions to challenges.
+-	I excel in evaluating systems to identify performance indicators and determining the best course of action to improve or correct performance based on specific system goals.
+-	I possess knowledge of all stages of the software development life cycle, including insightful experience in project planning, application design, deployment strategy formulation, and software product production according to customer specifications.
+-	I exhibit excellent communication and interpersonal skills.
+-	I have extensively applied several software design patterns in accordance with project requirements.
+-	I have the ability to multi-task and meet tight deadlines with or without supervision.
+-	I demonstrate rapid adaptability to new challenges and locations.
+-	I work closely with the web development team to determine problems, testing methods, and best practices.
+-	I modify existing software to detect and correct errors, improve performance, and upgrade interfaces.
+-	I am proficient in Microsoft Office applications such as Word, Excel, PowerPoint Outlook and others.
+
 
 ## 💻 Skills - Frameworks and Toolset
 
