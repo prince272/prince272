@@ -1,100 +1,45 @@
-# Hi there, I'm Prince Yaw Owusu! 👋
+# Hello, I'm Prince Yaw Owusu 👋
 
-I'm a highly skilled Full Stack Developer with over 8+ years of experience in Systems Analysis, Design, and Development. Welcome to my GitHub profile!
+Welcome to my GitHub profile! I am a highly skilled Full Stack Developer with over 9+ years of experience in Systems Analysis, Design, Development, and Implementation of diverse applications, including Web APIs, Web Apps, and Client/Server applications. My expertise lies in utilizing technologies such as .NET Framework, .NET Core, C#, and React Framework to deliver exceptional results.
 
-## 🚀 About Me
+## 🌱 About Me
 
-- 🌱 I’m currently working with technologies such as .NET Framework, .NET Core, C#, and React Framework.
-- 💡 I love exploring new programming languages and frameworks, and I excel in finding creative solutions to challenges.
-- 👯 I’m open to collaborating on interesting projects and contributing my expertise.
-- 📫 How to reach me: princeowusu.272@gmail.com
-- 😄 Pronouns: He/Him
-- 🌍 Nationality: Ghanaian
+- 💼 Currently working as a Full Stack Developer with expertise in .NET Framework, .NET Core, C#, and React.
+- 🎓 Graduated from OpenLabs Ghana with a focus on Software Development, covering subjects like Introduction to Computer Systems, Microsoft Office Products, Web Development Tools & Resources, Progressive Web Apps, and Database Management.
+- 📚 Constantly learning and exploring new technologies to enhance my skills and stay updated with industry trends.
 
-## ⚡ Key Competencies
+## 🔧 Skills
 
--	I have an excellent understanding and expertise in object-oriented programming (OOPS).
--	I am a strong critical thinker and creative designer who can think outside the box to find unexpected yet highly effective solutions to challenges.
--	I excel in evaluating systems to identify performance indicators and determining the best course of action to improve or correct performance based on specific system goals.
--	I possess knowledge of all stages of the software development life cycle, including insightful experience in project planning, application design, deployment strategy formulation, and software product production according to customer specifications.
--	I exhibit excellent communication and interpersonal skills.
--	I have extensively applied several software design patterns in accordance with project requirements.
--	I have the ability to multi-task and meet tight deadlines with or without supervision.
--	I demonstrate rapid adaptability to new challenges and locations.
--	I work closely with the web development team to determine problems, testing methods, and best practices.
--	I modify existing software to detect and correct errors, improve performance, and upgrade interfaces.
--	I am proficient in Microsoft Office applications such as Word, Excel, PowerPoint Outlook and others.
+- 💻 Client-Side Languages & Frameworks: HTML, CSS, JavaScript, React.js, Remix.js, Next.js, jQuery, MVC, React Beautiful DND, Material Design (MUI), Bootstrap, ShadcnUI, RadixUI, Dropzone, FilePond, OpenGraph, reCAPTCHA, JWT authentication, Axios, React Hook Form, Json, XML, Tailwinds, and more.
+- 🖥️ Server-side Languages & Frameworks: C#, Fluent Validations, AutoMapper, .NET and .NET Core, HtmlAgilityPack, Humanizer, Entity Framework, MediatR, Newtonsoft JSON, JWT authentication, Serilog, Twilio, Swagger, IdentityServer4, MediatR, LibPhoneNumber, ASP .NET and ASP .NET Core, REST/RESTful APIs, and more.
+- 🗄️ Databases: SQL Server, MySQL, MongoDB, PostgreSQL, NoSQL, and more.
+- 🛠️ Integrated Development Environment: Visual Studio, Visual Studio Code, SQL Management Studio.
+- 📚 Other Skills: Git, GitHub, Microsoft Office applications such as Word, Excel, PowerPoint, Outlook, Microsoft Teams, and more.
 
+## 📚 Projects
 
-## 💻 Skills - Frameworks and Toolset
+Here are some of the projects I've worked on:
 
-### Client-Side Languages & Frameworks
+- [Academy Of Ours Web App](https://bit.ly/3V19niB): An educational platform that allows students to study a variety of courses and topics using interactive checkpoints, lectures, and videos, with certificates automatically generated upon completion.
+- [Neimart Web App](http://bit.ly/3gvgBNv): An E-Commerce web application providing an end-to-end trading solution for vendors to start, expand, and manage their retail businesses.
+- [Precious Assistant AI - Windows App](https://bit.ly/43Eabyn): An AI assistant for Windows PCs that enables users to interact with their computers using voice and text commands.
 
-- HTML, CSS, JavaScript
-- React.js, Remix.js, Next.js, jQuery
-- MVC, React Beautiful DND, Material Design (MUI)
-- Bootstrap, ShadcnUI, Dropzone, FilePond
-- OpenGraph, reCAPTCHA, JWT authentication
-- Axios, React Hook Form
-- JSON, XML
-- Tailwinds, and more
+You can find more projects and contributions in my [GitHub repositories](https://github.com/prince272).
 
-### Server-Side Languages & Frameworks
+## 📫 Get in Touch
 
-- C#, .NET, .NET Core
-- Fluent Validations, AutoMapper
-- HtmlAgilityPack, Humanizer
-- Entity Framework, MediatR, Newtonsoft JSON
-- JWT authentication, Serilog, Twilio, Swagger, IdentityServer4
-- MediatR, LibPhoneNumber
-- ASP .NET, ASP .NET Core
-- REST/RESTful APIs, and more
+- GitHub: [prince272](https://github.com/prince272)
+- LinkedIn: [Prince Owusu](https://www.linkedin.com/in/prince-owusu-799438108)
+- Email: princeowusu.272@gmail.com
+- Mobile: +233 (55) 036 2337
 
-### Databases
-
-- SQL Server, MySQL, MongoDB, PostgreSQL
-- NoSQL, and more
-
-### Integrated Development Environment
-
-- Visual Studio, Visual Studio Code
-- SQL Management Studio
-
-### Source Control Management
-
-- Git, GitHub
-
-## 🎯 Hobbies & Interests
-
-Playing indoor video games, coding test apps for fun, watching movies, and designing digital content.
-
-## 📚 Personal Projects
-
-- **Academy Of Ours Web App** - (June 2019 - June 2022)
-  When the COVID pandemic broke out, I developed an educational platform that allows students to study a variety of courses and topics using interactive checkpoints, lectures, and videos. Certificates are automatically generated at the completion of each course.
-  Repo: [Academy Of Ours](https://bit.ly/3V19niB)
-
-- **Neimart Web App** - (January 2018 - July 2019)
-  I worked on an E-Commerce web application called Neighbourhood Marketplace Trading web application (Neimart), which provides an end-to-end business solution for clients to start, expand, and manage their retail business. It also assists individuals in selling and marketing their products or services online.
-  Repo: [Neimart](http://bit.ly/3gvgBNv)
-
-- **Precious Assistant AI - Windows App** - (January 2016 - November 2017)
-  Inspired by the Jarvis AI in the Marvel Cinematic Universe (MCU), I developed an Artificial Intelligence Windows application that performs tasks and services for individuals based on commands and questions.
-  Repo: [Precious Assistant AI](https://bit.ly/3V5lvzO)
+Feel free to reach out to me if you have any questions or would like to collaborate on a project. I'm always open to new opportunities!
 
 ## 🏆 Certifications
 
-- Best Student in ICT Certificate (2014) - [Certificate](http://bit.ly/3tSoNu7)
-- Winner of MTN Ayoba Hackathon Certificate (2021) - [Certificate](https://bit.ly/3tRPy23)
-- African Science and Technical Development Certificate (2019) - [Certificate](https://bit.ly/3U43G2N)
-- Technology, Creativity & Skills Development Certificate (2019) - [Certificate](http://bit.ly/3gpb0Zf)
-- SoloLearn C# Certificate (2017) - [Certificate](https://bit.ly/3WIsj8f)
-
-## 🎓 Education
-
-- Institution: OpenLabs Ghana
-- Program: Software Development
-- Principal Subjects/Skills Covered: Introduction to Computer Systems, Microsoft Office Products, Web Development Tools & Resources, Progressive Web Apps, Database Management.
-
-Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or want to collaborate on something interesting!
+- Best Student in ICT Certificate (2014): [Certificate](http://bit.ly/3tSoNu7)
+- Winner of MTN Ayoba Hackathon Certificate (2021): [Certificate](https://bit.ly/3tRPy23)
+- African Science and Technical Development Certificate (2019): [Certificate](https://bit.ly/3U43G2N)
+- Technology, Creativity & Skills Development Certificate (2019): [Certificate](http://bit.ly/3gpb0Zf)
+- SoloLearn C# Certificate (2017): [Certificate](https://bit.ly/3WIsj8f)
 
