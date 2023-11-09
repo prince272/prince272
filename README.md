@@ -1,6 +1,11 @@
 # 💫 About Me:
 🔭 I’m currently working on various projects in the field of Full Stack Development, utilizing my expertise in .NET Framework, .NET Core, C#, and React.<br><br>👯 I’m looking to collaborate on exciting web and application development projects. If you have an interesting project in mind or need assistance with development, feel free to reach out.<br><br>🤝 I’m looking for help with staying updated on the latest industry trends and technologies. Continuous learning and improvement are essential in the fast-paced world of technology, so any insights or resources in this regard would be greatly appreciated.<br><br>🌱 I’m currently learning and exploring new technologies to enhance my skillset and keep up with industry trends. Learning is a lifelong journey, and I'm always eager to expand my knowledge.<br><br>💬 Ask me about Full Stack Development, .NET Framework, .NET Core, C#, React.js, web application development, or any other related topics. I'm here to share my knowledge and experiences.<br><br>⚡ Fun fact: I have a diverse set of skills, from programming and web development to AI and voice recognition technology, making me a versatile developer with a wide range of interests.
 
+## 📫 Get in Touch
+- GitHub: [prince272](https://github.com/prince272)
+- LinkedIn: [Prince Owusu](https://www.linkedin.com/in/prince-owusu-799438108)
+- Email: princeowusu.272@gmail.com
+- Mobile: +233 (55) 036 2337
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-owusu-799438108) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5265873) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OwusuPrince272) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/prince272) 
@@ -15,10 +20,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prince272&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
