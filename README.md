@@ -1,14 +1,16 @@
 # 💫 About Me:
 💬 Ask me about Full Stack Development, .NET Framework, .NET Core, C#, React.js, web application development, or any other related topics. I'm here to share my knowledge and experiences.<br><br>⚡ Fun fact: I have a diverse set of skills, from programming and web development to AI and voice recognition technology, making me a versatile developer with a wide range of interests.
 
-## 📫 Get in Touch
+## 📫 Get in Touch & 🌐 Socials
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/prince272)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-owusu-799438108)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princeowusu.272@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%23FFDD00?logo=phone&logoColor=white)](tel:+233550362337)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/233550362337)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/princeowusu272)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5265873)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OwusuPrince272)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/prince272)
+
+
 
 
 
