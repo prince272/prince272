@@ -1,35 +1,316 @@
-# 💫 About Me:
-💬 Ask me about Full Stack Development, .NET Framework, .NET Core, C#, React.js, web application development, or any other related topics. I'm here to share my knowledge and experiences.<br><br>⚡ Fun fact: I have a diverse set of skills, from programming and web development to AI and voice recognition technology, making me a versatile developer with a wide range of interests.
+# 👋 Hi, I'm Prince Owusu
 
-## 📫 Get in Touch & 🌐 Socials
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/prince272)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-owusu-799438108)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princeowusu.272@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/233550362337)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/princeowusu272)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/prince.272)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/owusuyaw1234/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5265873)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OwusuPrince272)
+<p align="center">
+  <b>Software Engineer · Full Stack Developer · Product-Minded Builder</b>
+</p>
 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prince272&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prince272&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prince272&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prince272&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  Building useful software that turns complex systems into simple, human experiences.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prince272&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I'm a Full Stack Software Engineer based in **Accra, Ghana**.
+
+I build reliable backend systems, polished web applications, and cross-platform mobile experiences. I enjoy working where **strong engineering meets thoughtful product design** — making APIs, data, authentication, testing, and user interfaces work together seamlessly.
+
+- 🔭 Currently working as a **Software Engineer at Hubtel**
+- 🌱 Exploring **AI, developer tools, mobile experiences, and scalable systems**
+- 💡 Interested in **product engineering, open source, and meaningful technology**
+- 🏗️ Building products that solve real-world problems
+- 🌍 Open to collaborations and impactful projects
+
+> "Make it work. Make it clear. Then make it feel like you."
+
+---
+
+# 🚀 Highlights
+
+| | |
+|-|-|
+| 📦 Products shipped | 10+ |
+| 💻 Years learning & building | 9+ |
+| 🏆 Certificates & awards | 20+ |
+| 🌍 Location | Accra, Ghana |
+
+---
+
+# 💼 Experience
+
+## Software Engineer
+### Hubtel · Accra, Ghana
+
+**Oct 2023 - Present**
+
+Designing, developing, and maintaining dependable internal systems and business workflows.
+
+Responsibilities:
+
+- Translate operational requirements into reliable software solutions
+- Build and maintain backend services and APIs
+- Improve existing systems through refactoring and optimization
+- Collaborate with teams to deliver scalable solutions
+
+---
+
+# 🌎 Open Source Contributions
+
+## HeroUI Native Contributor
+
+**Sep - Oct 2025**
+
+Contributed improvements focused on mobile interactions and theme consistency.
+
+### Merged Contributions
+
+✅ **PressableFeedback Component**
+
+- Added iOS highlight feedback
+- Added Android ripple defaults
+- Added configurable animations
+- Added documentation and examples
+
+PR:
+- https://github.com/heroui-inc/heroui-native/pull/52
+
+
+✅ **Stack Theme Transition Fix**
+
+- Fixed screen transition backgrounds
+- Prevented white flashes in dark mode
+
+PR:
+- https://github.com/heroui-inc/heroui-native/pull/36
+
+
+### Additional Proposals
+
+- Spinner animation variants
+- Button ripple improvements
+- Mobile interaction enhancements
+
+---
+
+## Storj Contributor
+
+**Jul 2025 - Present**
+
+Contributor to Storj Satellite applications.
+
+Contribution:
+
+- Improved application category sorting behavior
+- Addressed issue #7476
+
+PR:
+https://github.com/storj/storj/pull/7527
+
+---
+
+# 🛠️ Selected Projects
+
+## 🛡️ Yanioba
+
+### Community Safety Platform
+
+A Ghana-focused platform for reporting incidents, following local updates, creating alert zones, and improving community awareness.
+
+**Technologies**
+
+- React Native
+- Expo
+- TypeScript
+- Maps
+- APIs
+- Mobile-first UX
+
+
+---
+
+## 🛒 Neimart
+
+### Neighborhood Marketplace
+
+An end-to-end commerce platform helping local businesses start, grow, and manage their operations.
+
+**Technologies**
+
+- Next.js
+- TypeScript
+- .NET
+- PostgreSQL
+
+
+---
+
+## 🎓 Academy
+
+### Learning Platform
+
+Interactive education platform featuring lessons, checkpoints, video learning, and automatic certificates.
+
+**Technologies**
+
+- React
+- TypeScript
+- Tailwind CSS
+- Video
+
+
+---
+
+## ⚡ NextSolution.Template
+
+### Developer Starter Template
+
+A reusable full-stack template for quickly building production-ready applications.
+
+**Technologies**
+
+- ASP.NET Core
+- Next.js
+- Docker
+- NuGet
+
+
+---
+
+## 🤖 Precious Assistant
+
+### Desktop AI Assistant
+
+A digital assistant for searching content, answering questions, playing music, and connecting users.
+
+**Technologies**
+
+- C#
+- .NET
+- Desktop Automation
+
+
+---
+
+# 💻 Tech Stack
+
+## Backend
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+## Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+
+## Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
+
+## Cloud & Tools
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prince272&theme=dark&hide_border=false&include_all_commits=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prince272&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince272&theme=dark&layout=compact"/>
+
+</p>
+
+
+---
+
+# 🏆 Achievements
+
+## 🥇 MTN Ayoba Hackathon Winner (2021)
+
+Built **Academy**, an e-learning platform that won the MTN Ayoba Hackathon.
+
+- Winner among 270+ applicants
+- Received recognition for innovation in education technology
+
+
+## 🏅 Other Recognition
+
+- AfriSTI Innovation Challenge (2019)
+- Youth Entrepreneurship Programme (2019)
+- Technology & Skills Development Programme (2019)
+
+---
+
+# 🎓 Education & Certifications
+
+## University of the People
+
+**Associate of Science in Computer Science**
+
+2026
+
+
+## OpenLabs
+
+**Software Development**
+
+2024
+
+
+## Technical Certifications
+
+- Build Web Apps with ASP.NET Skill Path — Codecademy
+- C# Certification — Codecademy
+- C# Certification — SoloLearn
+
+
+---
+
+# 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/prince272)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prince-owusu-799438108)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:princeowusu.272@gmail.com)
+
+[![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://twitter.com/OwusuPrince272)
+
+---
+
+# 🤝 Let's Build Something Useful
+
+Have an interesting product idea, technical challenge, or open-source opportunity?
+
+I'm always interested in conversations around:
+
+- Software architecture
+- Full-stack development
+- AI-powered applications
+- Developer tools
+- Product engineering
+
+---
+
+<p align="center">
+Built with curiosity, care, and continuous learning.
+</p>
